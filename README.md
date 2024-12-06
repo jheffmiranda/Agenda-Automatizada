@@ -1,2 +1,1 @@
 # Agenda-Automatizada
-FAIND/UFGD
